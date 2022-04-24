@@ -1224,3 +1224,5 @@ ORDER BY 1;
 
 SELECT * FROM V_RELATORIO
 ORDER BY 1;
+
+/* first update from Office PC 24/04/2022 */
