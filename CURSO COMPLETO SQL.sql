@@ -1226,3 +1226,6 @@ SELECT * FROM V_RELATORIO
 ORDER BY 1;
 
 /* first update from Office PC 24/04/2022 */
+
+/* ok, it's first reupdate from Home PC 24/04/2022 */
+
