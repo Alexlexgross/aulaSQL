@@ -1234,3 +1234,5 @@ DELIMITER (SIMBOLO);
 
 /* COMANDO PARA VER STATUSA DO BD */
 STATUS
+
+/* testing update from Office 25-04-2022 */
